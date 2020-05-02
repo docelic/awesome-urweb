@@ -63,7 +63,8 @@ Contributions are welcome. Feel free to submit Ur/Web libraries, projects, and s
 * [Resources](#resources)
   * [Demos](#demos)
   * [Official](#official)
-  * [Tutorials](#tutorials)
+  * [References](#references)
+  * [Tutorials and Blog Posts](#tutorials-and-blog-posts)
   * [Videos](#videos)
 * [Services and Apps](#services-and-apps)
 * [Tools](#tools)
@@ -111,6 +112,8 @@ Contributions are welcome. Feel free to submit Ur/Web libraries, projects, and s
 
 ## Database Tools
 
+ * [pgquarrel](https://github.com/eulerto/pgquarrel) - Compares PostgreSQL database schemas (DDL). Useful for migrations.
+
 ## Debugging
 
 ## Dependency Injection
@@ -156,13 +159,17 @@ Contributions are welcome. Feel free to submit Ur/Web libraries, projects, and s
 
 ## Misc
 
- * [urweb-monad-pack](https://github.com/grwlf/urweb-monad-pack) - Collection of monads inspired by Haskell's MTL
+ * [Companies supporting the urweb language](http://www.impredicative.com/wiki/index.php/Companies_supporting_the_urweb_language)
+ * [Simple benchmarks for urweb ](https://github.com/MarcWeber/urweb-benchmark)
+ * [TechEmpower Benchmarks](https://www.techempower.com/benchmarks/#section=data-r16&hw=ph&test=fortune)
 
 ## Network Protocols
 
 ## ORM/ODM Extensions
 
 ## Package Management
+
+ * [urweb-build](https://github.com/grwlf/urweb-build) - Build system for Ur/Web projects, written in Nix expression language
 
 ## Processes and Threads
 
@@ -208,34 +215,65 @@ Contributions are welcome. Feel free to submit Ur/Web libraries, projects, and s
 
 ## Demos
 
- * [Demos](http://www.impredicative.com/ur/demo/) - Main Ur/Web demos
+ * [Demos](http://www.impredicative.com/ur/demo/) - Official Ur/Web demos
+ * [Extensibl](https://github.com/extensibl/website) - A simple website written in Ur/Web
  * [Hands-On Opa](http://www.impredicative.com/ur/opa/) - Ur/Web versions of demos from Hands-On Opa
- * [More Demos](http://www.impredicative.com/ur/more/)
+ * [Logitext](https://github.com/ezyang/logitext) - Interactive sequent calculus tutorial ([homepage](http://logitext.mit.edu/main))
+ * [More Demos](http://www.impredicative.com/ur/more/) - More of the official Ur/Web demos
+ * [Oilprice](https://github.com/grwlf/oilprice) - Simple application ("Oilprice")
+ * [Split calculator](https://github.com/ashalkhakov/ashalkhakov.github.com/blob/source/src/split_calculator.ur) - Split an expense between people evenly ([blog post](http://ashalkhakov.github.io/articles/splitcalc.html) and [demo](https://ashalkhakov.github.io/split-calculator.html))
  * [TodoMVC](http://www.impredicative.com/ur/todomvc/) - An Ur/Web Solution to TodoMVC
+ * [Ur/Web Examples](http://chiselapp.com/user/beyert/repository/urweb_examples/dir?ci=tip&type=tree) -	Timothy Beyer's Ur/Web examples
+ * [UrBlog](https://github.com/gian/urblog) - Ur/Web-based blog system
  * [UrFlow Demo](http://www.impredicative.com/ur/scdv/) - Static analysis
  * [uru3](https://github.com/grwlf/uru3) - Set of user interface libraries
  * [urweb-clock](https://github.com/doublec/urweb-clock) - Displays a web page that displays the server's time updated every second or so by executing `date` on the server
+ * [urweb-fviewer](https://github.com/grwlf/urweb-fviewer) - demonstrating complex app development (uru3, xmlw, urweb-build)
+ * [urweb-monad-pack](https://github.com/grwlf/urweb-monad-pack) - Collection of monads inspired by Haskell's MTL
 
 ## Official
 
  * [Issue tracker](https://github.com/urweb/urweb/issues) - Official issue tracker
- * [The Ur/Web Manual](http://www.impredicative.com/ur/manual.pdf) - Official Ur/Web manual
  * [Ur FAQ](http://www.impredicative.com/ur/faq.html) - Ur/Web FAQ
  * [www.impredicative.com/ur](http://www.impredicative.com/ur/) - Official language site
 
-## Tutorials
+## References
 
+ * [basis.urs](https://github.com/urweb/urweb/blob/master/lib/ur/basis.urs) - urweb/lib/ur/basis.urs
+ * [The Ur/Web Manual](http://www.impredicative.com/ur/manual.pdf) - Official Ur/Web Manual
+ * [top.urs](https://github.com/urweb/urweb/blob/master/lib/ur/top.urs) and [top.ur](https://github.com/urweb/urweb/blob/master/lib/ur/top.ur)- urweb/lib/ur/top.ur{,s}
+ * [Ur/Web Tests](https://github.com/urweb/urweb/tree/master/tests) - Official tests in the compiler repository. Helps to show examples, especially concerning syntax and embedded SQL.
+
+## Tutorials and Blog Posts
+
+ * [Abstract and Concrete Type Classes](http://www.impredicative.com/wiki/index.php/Abstract_and_Concrete_Type_Classes)
+ * [Basic Examples of the Type Class Mechanism in Ur/Web](http://www.impredicative.com/wiki/index.php/Basic_Examples_of_the_Type_Class_Mechanism_in_Ur/Web)
+ * [disjointness fun](http://www.impredicative.com/wiki/index.php/Disjointness_fun_-_creating_records_using_type_level_functions) - creating records using type level functions
+ * [dnplayer](https://github.com/dbp/dnplayer) - Daniel Patterson's media player app with [extensive tutorial](https://dbp.io/essays/2013-05-21-literate-urweb-adventure.html)
+ * [Handling POST requests with Ur/Web](https://bluishcoder.co.nz/2010/12/16/handling-post-requests-with-urweb.html)
+ * [Managing the server/client split in Ur/Web](http://blog.ezyang.com/2012/07/managing-the-server-client-split-in-ur-web/) - Edward Z. Yang's post
+ * [Polymorphic variants in Ur/Web](http://blog.ezyang.com/2012/07/polymorphic-variants-in-urweb/)
+ * [Polymorphic Variants Usage Example](http://www.impredicative.com/wiki/index.php/Polymorphic_Variants_Usage_Example)
  * [Simple Ur/Web Example](https://bluishcoder.co.nz/2010/12/14/simple-urweb-example.html)
- * [Ur/Web Tutorial](http://www.expdev.net/urtutorial/) - Gian Perrone's Ur/Web Tutorial
- * [Using Ur/Web: Pro's and Con's](https://frigoeu.github.io/urweb1.html) - Simon Van Casteren's blog
+ * [The Ur/Web Tutorial](http://www.impredicative.com/ur/tutorial/) - Official tutorial (introduction and type-level computation)
+ * [Three research programming languages together](http://blog.ezyang.com/2012/05/what-happens-when-you-mix-three-research-programming-languages-together/)
+ * [Top.Fold to count fields of a record](http://www.impredicative.com/wiki/index.php/Using_Top.Fold_to_count_fields_of_a_record)
+ * [Type Classes as Predicates over types](http://www.impredicative.com/wiki/index.php/Basic_Example_of_Type_Classes_as_Predicates_Over_Types)
+ * [Ur/Web in production](http://www.impredicative.com/pipermail/ur/2014-January/001608.html) - Vladimir Shabanov's mailing list post about BazQux Reader
+ * [Ur/Web Tutorial](http://www.expdev.net/urtutorial/) - Gian Perrone's Ur/Web Tutorial ([source code](https://github.com/gian/urtutorial))
+ * [Ur/Web's approach to records](http://blog.ezyang.com/2012/04/how-urweb-records-work-and-what-it-might-mean-for-haskell/) - Edward Z. Yang's post
+ * [Using Ur/Web: Pro's and Con's](https://frigoeu.github.io/urweb1.html) - Simon Van Casteren's blog post
 
 ## Videos
 
  * [Ur/Web tutorial, multiple lessons](https://www.youtube.com/watch?v=2SmHs4kHv3s) - Adam Chlipala's Ur/Web tutorial
 
-## Official Documentation Translations
-
 # Services and Apps
+
+ * [BazQux Reader](https://bazqux.com/) - Commercial RSS feed reader ([partial source code](https://github.com/bazqux/bazqux-urweb))
+ * [Bitcoin Merge Mining Pool](http://mmpool.org/)
+ * [classy.school](https://www.classy.school/) - SaaS application for music schools in Belgium
+ * [Ecosrv](http://ecosrv.hit.msk.ru/) - Build server for firmware on network hardware
 
 # Tools
 
@@ -243,16 +281,23 @@ Contributions are welcome. Feel free to submit Ur/Web libraries, projects, and s
 
 ## Editor Plugins
 
+ * [Emacs integration](http://ashalkhakov.github.io/articles/urweb-setup.html)
+ * LSP server - `urweb -startLspServer`
+
 ## Shell Plugins
 
 # How to Contribute
+
+Feel free to submit Ur/Web libraries, projects, and supporting functionality (possibly implemented in other languages).
+When possible, include key words in the description following the "-". This helps users search locally within the document.
 
 ```sh
 # To clone and update:
 git clone https://github.com/crystallabs/awesome-urweb
 editor README.md
+git commit && ...
 
-# To run tests (requires Crystal language - https://crystal-lang.org/):
+# (Optional) To run tests, install Crystal - https://crystal-lang.org/:
 shards
 crystal spec
 ```
