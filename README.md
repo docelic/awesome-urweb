@@ -139,6 +139,7 @@ Also join [Ur/Web community](#community) (mailing list, IRC, etc.).
  * [urweb-captcha](https://github.com/grwlf/urweb-captcha) - Captcha library in Ur/Web
  * [urweb-persona](https://github.com/doublec/urweb-persona) - Persona authentication example in Ur/Web
  * [urweb-persona (fork)](https://github.com/grwlf/urweb-persona) - Persona authentication example in Ur/Web (fork)
+ * [world](https://github.com/urweb/world) - Interfaces to common web API providers
 
 ## HTML Builders
 
