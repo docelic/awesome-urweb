@@ -5,9 +5,9 @@
 A curated list of awesome Ur/Web code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 The goal is to have projects useful for the community.
 
-Also subscribe to the [Ur mailing list](http://www.impredicative.com/cgi-bin/mailman/listinfo/ur).
-
 Contributions are welcome. Feel free to submit Ur/Web libraries, projects, and supporting functionality (possibly implemented in other languages).
+
+Also join [Ur/Web community](#community) (mailing list, IRC, etc.).
 
 * [Awesome Ur/Web](#awesome-urweb)
   * [Algorithms and Data Structures](#algorithms-and-data-structures)
