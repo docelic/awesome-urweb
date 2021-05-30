@@ -112,6 +112,7 @@ Also join [Ur/Web community](#community) (mailing list, IRC, etc.).
 
 ## Database Tools
 
+ * [apgdiff](https://apgdiff.com/) - Another PostgreSQL Diff Tool (DDL). Written in Java. Useful for migrations.
  * [pgquarrel](https://github.com/eulerto/pgquarrel) - Compares PostgreSQL database schemas (DDL). Useful for migrations.
 
 ## Debugging
