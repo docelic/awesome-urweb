@@ -210,7 +210,7 @@ Also join [Ur/Web community](#community) (mailing list, IRC, etc.).
 ## Web Servers
 
 # Community
- * [IRC](http://irc.lc/freenode/ur) - #ur on Libera.Chat
+ * [IRC](https://web.libera.chat/?channel=#ur) - #ur on Libera.Chat
  * [Ur mailing list](http://www.impredicative.com/cgi-bin/mailman/listinfo/ur/)
 
 # Resources
