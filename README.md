@@ -104,7 +104,7 @@ Also join [Ur/Web community](#community) (mailing list, IRC, etc.).
 
 ## Data Formats
 
- * [urweb-utf8](https://github.com/grwlf/urweb-utf8) - Basic UTF8 library
+ * [urweb-utf8](https://github.com/grwlf/urweb-utf8) - Basic UTF8 library (DEPRECATED - part of Ur/Web since 2019.)
 
 ## Data Generators
 
@@ -136,7 +136,7 @@ Also join [Ur/Web community](#community) (mailing list, IRC, etc.).
 ## Framework Components
 
  * [ajaxUpload](https://github.com/urweb/ajaxUpload) - Upload files without forcing page reloads
- * [openid](http://hg.impredicative.com/openid) - OpenID authentication
+ * [openid](http://hg.impredicative.com/openid) - OpenID authentication (NOTE: this functionality should be revised and included in `world`)
  * [urweb-captcha](https://github.com/grwlf/urweb-captcha) - Captcha library in Ur/Web
  * [urweb-persona](https://github.com/doublec/urweb-persona) - Persona authentication example in Ur/Web
  * [urweb-persona (fork)](https://github.com/grwlf/urweb-persona) - Persona authentication example in Ur/Web (fork)
@@ -210,7 +210,7 @@ Also join [Ur/Web community](#community) (mailing list, IRC, etc.).
 ## Web Servers
 
 # Community
- * [IRC](http://irc.lc/freenode/ur) - #ur on Freenode
+ * [IRC](http://irc.lc/freenode/ur) - #ur on Libera.Chat
  * [Ur mailing list](http://www.impredicative.com/cgi-bin/mailman/listinfo/ur/)
 
 # Resources
