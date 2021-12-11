@@ -268,7 +268,8 @@ Also join [Ur/Web community](#community) (mailing list, IRC, etc.).
 
 ## Videos
 
- * [Ur/Web tutorial, multiple lessons](https://www.youtube.com/watch?v=2SmHs4kHv3s) - Adam Chlipala's Ur/Web tutorial
+ * [Ur/Web tutorial, multiple lessons](https://www.youtube.com/watch?v=2SmHs4kHv3s) - Aistis Raulinaitis' Ur/Web tutorial
+   * [Related Code](https://github.com/sheganinans/urweb_deep_dive/) - Ur/Web Deep Dive
 
 # Services and Apps
 
